@@ -1,1 +1,1 @@
-# LSTM
+# LSTM implementation in KERAS
